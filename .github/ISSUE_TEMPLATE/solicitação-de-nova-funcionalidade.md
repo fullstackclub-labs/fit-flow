@@ -2,19 +2,35 @@
 name: Solicitação de nova funcionalidade
 about: Sugira alguma ideia para o projeto!
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
 
-**Sua solicitação de funcionalidade está relacionada a um problema? Por favor, descreva.**
-Uma descrição clara e concisa de qual é o problema. Ex. Fico sempre frustrado quando [...]
+## Descrição da Funcionalidade 📝
 
-**Descreva a solução que você deseja**
-Uma descrição clara e concisa do que você deseja que aconteça.
+<!-- Forneça uma descrição clara e concisa da nova funcionalidade que você está sugerindo. -->
 
-**Descreva as alternativas que você considerou**
-Uma descrição clara e concisa de quaisquer soluções ou recursos alternativos que você considerou.
+## Caso de Uso 🎯
 
-**Contexto adicional**
-Adicione qualquer outro contexto ou capturas de tela sobre a solicitação de funcionalidade aqui.
+<!-- Explique o caso de uso ou problema que esta funcionalidade pretende resolver. -->
+
+## Solução Proposta 💡
+
+<!-- Descreva como você imagina que a funcionalidade será implementada e quais mudanças ela introduzirá no projeto. Sinta-se à vontade para incluir detalhes técnicos ou ideias de design. -->
+
+## Benefícios Potenciais 🤩
+
+<!-- Destaque os benefícios de adicionar esta funcionalidade ao projeto, como melhoria na experiência do usuário, aumento de eficiência ou melhor funcionalidade. -->
+
+## Contexto Adicional 🖼️
+
+<!-- Adicione qualquer contexto adicional, capturas de tela, protótipos ou exemplos que possam ajudar os desenvolvedores a entenderem melhor a funcionalidade. -->
+
+## Critérios de Aceitação ✅
+
+<!-- Especifique os critérios que devem ser atendidos para que esta funcionalidade seja considerada concluída. Isso pode incluir funcionalidades específicas, interações do usuário, testes e documentação. -->
+
+- [ ] ...
+- [ ] ...
+- [ ] ...
