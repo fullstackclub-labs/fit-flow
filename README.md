@@ -19,12 +19,20 @@ O FitFlow é uma aplicação voltada para o gerenciamento de planos de treino pe
 - **Design e Componentes**: Tailwind CSS e shadcn/ui para criação de interfaces modernas e responsivas.
 - **Banco de Dados**: Postgres com Prisma para interação eficiente com o banco de dados.
 
+## Gerenciamento de Branches com GitFlow 🌿
+
+# Gerenciamento de Branches com GitFlow 🌿
+
+Nós adotamos a abordagem de gerenciamento de branches GitFlow para organizar o fluxo de trabalho do nosso projeto. Isso significa que utilizamos os branches `main` e `development` como branches principais. O `main` contém o código estável do nosso projeto, enquanto o `development` é onde as novas funcionalidades são desenvolvidas antes de serem mescladas no `main`. Para cada nova funcionalidade, criamos branches de feature a partir do `development`.
+
+Para correções de bugs, criamos branches a partir da `main`. Essa abordagem nos permite manter um fluxo de trabalho organizado, garantindo que as correções de bugs sejam feitas a partir do código estável.
+
+Para saber mais sobre o GitFlow, consulte o [guia oficial](https://nvie.com/posts/a-successful-git-branching-model/) do Vincent Driessen.
+
 ## Como Contribuir 🤝
 
-1. Faça um clone deste repositório
+1. Faça um clone deste repositório.
 2. Crie um branch para as suas alterações: `git checkout -b minha-contribuicao`.
-   1. Se você estiver desenvolvendo uma nova funcionalidade, crie-o a partir do branch `development`
-   2. Se você estiver resolvendo algum bug, crie-o a partir do branch `main`
 3. Faça suas modificações e adições.
 4. Faça commits das suas mudanças: `git commit -m 'Adiciona novos recursos'`.
 5. Faça um push para o seu branch: `git push origin minha-contribuicao`.
