@@ -21,8 +21,6 @@ O FitFlow é uma aplicação voltada para o gerenciamento de planos de treino pe
 
 ## Gerenciamento de Branches com GitFlow 🌿
 
-# Gerenciamento de Branches com GitFlow 🌿
-
 Nós adotamos a abordagem de gerenciamento de branches GitFlow para organizar o fluxo de trabalho do nosso projeto. Isso significa que utilizamos os branches `main` e `development` como branches principais. O `main` contém o código estável do nosso projeto, enquanto o `development` é onde as novas funcionalidades são desenvolvidas antes de serem mescladas no `main`. Para cada nova funcionalidade, criamos branches de feature a partir do `development`.
 
 Para correções de bugs, criamos branches a partir da `main`. Essa abordagem nos permite manter um fluxo de trabalho organizado, garantindo que as correções de bugs sejam feitas a partir do código estável.
