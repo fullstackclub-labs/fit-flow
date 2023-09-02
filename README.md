@@ -21,11 +21,13 @@ O FitFlow é uma aplicação voltada para o gerenciamento de planos de treino pe
 
 ## Como Contribuir 🤝
 
-1. Faça um fork deste repositório.
-2. Crie uma branch para suas alterações: `git checkout -b minha-contribuicao`.
+1. Faça um clone deste repositório
+2. Crie um branch para as suas alterações: `git checkout -b minha-contribuicao`.
+   1. Se você estiver desenvolvendo uma nova funcionalidade, crie-o a partir do branch `development`
+   2. Se você estiver resolvendo algum bug, crie-o a partir do branch `main`
 3. Faça suas modificações e adições.
-4. Commit suas mudanças: `git commit -m 'Adiciona novos recursos'`.
-5. Push para o seu fork: `git push origin minha-contribuicao`.
+4. Faça commits das suas mudanças: `git commit -m 'Adiciona novos recursos'`.
+5. Faça um push para o seu branch: `git push origin minha-contribuicao`.
 6. Abra um pull request neste repositório.
 
 ## Documentação e Acompanhamento 🔍
