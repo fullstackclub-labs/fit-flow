@@ -47,6 +47,7 @@ Para dúvidas, sugestões ou colaborações, entre em contato conosco:
 
 - Email: felipe@fullstackclub.io
 - Issue Tracker: [GitHub Issues](https://github.com/fullstackclub-labs/fitflow/issues)
+- Discord: @fullstackclub
 
 ## Licença 📝
 
