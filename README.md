@@ -1,6 +1,6 @@
 # FitFlow - Gerenciamento de Planos de Treino
 
-Bem-vindo ao repositório do projeto FitFlow! 💪
+Bem-vindo! 🚀
 
 O FitFlow é uma aplicação voltada para o gerenciamento de planos de treino personalizados. Desenvolvido pelos alunos do [Full Stack Club](https://fullstackclub.com.br/), um curso de programação que abrange tópicos como React, Node, TypeScript e muito mais. Com o FitFlow, os usuários podem criar, compartilhar e monitorar seus planos de treino de maneira eficaz e conveniente. A aplicação oferece uma variedade de recursos que ajudam os usuários a alcançar seus objetivos de condicionamento físico de forma personalizada e organizada.
 
