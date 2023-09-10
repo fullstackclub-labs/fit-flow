@@ -1,12 +1,7 @@
 {
-  "*.ts": [
-    "npx eslint --max-warnings=0 --fix",
-    "npx prettier --write",
-    "npm test"
-  ],
-  "*.tsx": [
-    "npx eslint --max-warnings=0 --fix",
-    "npx prettier --write",
-    "npm test"
+  "*.{ts,tsx}": [
+    "eslint --max-warnings=0 --fix",
+    "prettier --write",
+    "npm test:staged"
   ]
 }
