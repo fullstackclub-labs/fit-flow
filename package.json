@@ -7,8 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint src --max-warnings=0",
-    "test": "jest --passWithNoTests --coverage",
-    "test:watch": "jest --watch",
+    "test": "jest --passWithNoTests",
+    "test:staged": "npm test --findRelatedTests",
+    "test:watch": "npm test --watch",
+    "test:ci": "npm test --coverage",
     "cypress": "cypress open",
     "generate": "plop --plopfile ./generators/plopfile.js",
     "postinstall": "npx husky install"
