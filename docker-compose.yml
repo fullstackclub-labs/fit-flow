@@ -1,0 +1,15 @@
+version: "3.4"
+services:
+  postgres:
+    image: postgres:latest
+    container_name: fitflow-postgres
+    ports:
+      - "5432:5432"
+    expose:
+      - "5432"
+    volumes:
+      - ./.postgres-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: fitflow
